@@ -18,4 +18,4 @@ microservice architect witdh springboot and spring cloud
 	dependecies:netflix zuul,  eurekaClient
 	port:8089
 
-![Schema][shema.png]
+![Schema](shema.png)
