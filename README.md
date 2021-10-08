@@ -17,3 +17,5 @@ microservice architect witdh springboot and spring cloud
 <h4>proxy server:</h4></br>
 	dependecies:netflix zuul,  eurekaClient
 	port:8089
+
+![Schema][shema.png]
